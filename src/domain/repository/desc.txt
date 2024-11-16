@@ -1,0 +1,2 @@
+1.-The repository folder is about how we are going to call our datasource.
+2.-We are not going to use directly our datasource, we will do it through our repository.

@@ -1,0 +1,6 @@
+1.-The domain folder is about create the business rules of our app.
+2.-We are not going to implement the datasource or the repository.
+3.-We will just create the rules of how we will implement it.
+4.-The exception is the "entities folder" where we will implement it.
+5.-When we talk about business rules means that we are just going to create abstract classes
+    or interfaces that allow us to set the rules of how we want data sources works.
