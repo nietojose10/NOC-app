@@ -14,6 +14,6 @@ export abstract class LogDatasource {
     //* Promise<void>, this only applies when we work with classes.
     //* When we work with functions we can declare within an 
     //* interface saveLog: ( log: LogEntity ) => Promise<void>
-    abstract saveLog( log: LogEntity): Promise<void>;
+    abstract saveLog( log: LogEntity ): Promise<void>;
     abstract getLogs( severityLevel: LogSeverityLevel ): Promise<LogEntity[]>;
 }

@@ -1,0 +1,5 @@
+1.-One of the main reasons because we create entities is because this is the structure of how
+    we want to manage our data. Usually, we can think that our database is which says how to save
+    our data but what happen when we want to change of database?
+    Therefore with entities we make our app proof of databases changes and we change of database
+    we do not need to make a huge change in the whole app.
